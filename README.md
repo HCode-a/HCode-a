@@ -1,4 +1,4 @@
-### Hi, I'm Huu Nguyen - aka [HCode][website] = Software Engineer 🌱 
+### Hi, I'm Huu Kevin - aka [HCode][website] = Software Engineer 🌱 
 
 - 🔭 I am passionate about Game Software and Arduino
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
