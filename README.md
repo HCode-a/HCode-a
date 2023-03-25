@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi, I'm Huu Nguyen - aka [HCode][website] = Software Engineer 🌱 
 
-<!--
-**HCode-a/HCode-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am passionate about Game Software and Arduino
+- 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
+- ⚡ Fun fact: Listen to English music 😊
 
-Here are some ideas to get you started:
+### :zap: GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=HCode-a&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HCode-a&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdiMWUwZTExOGU2N2UxZTNkODhiOTg3MmU1NzYzMGQzZGU3MjBiZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/></td>
+</tr>
+<table>
+
+### Languages and Tools:
+<img align="left" alt="Qt" width="26px"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9d9CPBknDUGUbBpBfysm3CBNdTNoM_WM0iRgtsq0PpeFMzOO1RC-uuKXkrmLMmOAiuY&usqp=CAU" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Java" width="26px"
+src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Java" width="26px"
+src="https://pngimage.net/wp-content/uploads/2018/06/java-logo-transparent-png-8.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  
+<br />
+<br />
+
+---
+
+### 💻 Latest project
+
+<!-- PROJECT:START -->
+- [Phần mềm Chấm Công Cá Nhân](https://www.facebook.com/photo/?fbid=3495965177298348&set=a.2338177719743772)
+<!-- PROJECT:END -->
+
+---
+
+### 📫 Contact me via:
+
+[![LinkedIN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRiPVwPi9nMAd8ep7GR5F3W0zlQD8vrOBB6dB7pVLhw&s)](https://www.facebook.com/HCodeC)
+  
+[website]: https://www.facebook.com/HCodeC
