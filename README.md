@@ -43,9 +43,9 @@ src="https://pngimage.net/wp-content/uploads/2018/06/java-logo-transparent-png-8
 ---
 
 ### 📫 Contact me via:
-  
-[![LinkedIN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRiPVwPi9nMAd8ep7GR5F3W0zlQD8vrOBB6dB7pVLhw&s)](https://www.facebook.com/HCodeC)
-  
-<img align="left" alt="FB" width="100%" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/337035816_2293513327475922_783349360188597592_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=IU9MocprI2oAX_qwLvQ&_nc_ht=scontent.fhan15-2.fna&oh=00_AfB_k7sG2IFSuDE_Qj18YEOSddvFIzgWmx9lJnwx8zwBxg&oe=6425A15C" />
+
+<a href="https://www.facebook.com/HCodeC"><img align="left" alt="FB" width="50%" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/337035816_2293513327475922_783349360188597592_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=IU9MocprI2oAX_qwLvQ&_nc_ht=scontent.fhan15-2.fna&oh=00_AfB_k7sG2IFSuDE_Qj18YEOSddvFIzgWmx9lJnwx8zwBxg&oe=6425A15C" /></a>
   
 [website]: https://www.facebook.com/HCodeC
+  
+<!-- [![LinkedIN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRiPVwPi9nMAd8ep7GR5F3W0zlQD8vrOBB6dB7pVLhw&s)](https://www.facebook.com/HCodeC) -->
